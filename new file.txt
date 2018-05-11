@@ -1,12 +1,8 @@
-void main pravee
-<
-=======
-    
-{ hi praven how are you  mani 9
-    hi how are you,where are you
-	}
-	
-	exits ## !!
->>>>>>> 43975c59fecfce101b1e84e64ee3650e7e854134
 
+void main praveen
+>>>>>>> be9fd77094062193c066a1aa26d685cfd717414d
+
+	
+	
+	exits ## 
 	
