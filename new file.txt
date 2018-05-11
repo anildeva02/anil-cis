@@ -1,7 +1,7 @@
 void main praveen
-{ mani 9
+{ hi anil how are you  mani 9
     hi how are you
 	}
 	
-	exits
+	exits ??
 	
