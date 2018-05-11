@@ -1,18 +1,7 @@
 void main pravee
-<<<<<<< HEAD
-{ hi anil how are you  mani 9
-<<<<<<< HEAD
-    hi how are you ### hi how are you
-	}
-	
-	exits i am praveen
+<
 =======
-    hi how are you,where are you
-	}
-	
-	exits ## ??
->>>>>>> b10ea0a2638a4405c7522cb62d8884be529af918
-=======
+    
 { hi praven how are you  mani 9
     hi how are you,where are you
 	}
